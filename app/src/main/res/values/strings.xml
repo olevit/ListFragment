@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">List Fragment</string>
+    <string name="empty">Котики</string>
+</resources>
